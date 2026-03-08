@@ -206,17 +206,18 @@ roi_by_channel  = (
 
 ---
 
-## 📸 Notebook Output Screenshots
+## 📸 Notebook Output 
 
 
 ### Funnel 
 <img width="671" height="363" alt="image" src="https://github.com/user-attachments/assets/477becc3-e33b-4d3f-9379-049b3f458c90" />
 
 ### LTV by Channel
-![LTV by Channel](images/ltv-by-channel.png)
+<img width="661" height="292" alt="image" src="https://github.com/user-attachments/assets/184f576d-5df7-463a-957d-3d27e91d0c95" />
+
 
 ### CAC by Channel
-<img width="654" height="297" alt="image" src="https://github.com/user-attachments/assets/94d6c021-4b1b-4145-b73d-5cab1db58326" />
+<img width="641" height="269" alt="image" src="https://github.com/user-attachments/assets/9edc6076-016d-4d2b-afd1-56ca1a041149" />
 
 
 ### ROI by Channel
