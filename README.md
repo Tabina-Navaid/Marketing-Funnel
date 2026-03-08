@@ -1,6 +1,6 @@
 # 📊 Marketing Funnel Analysis — EDA, LTV, CAC & ROI
 
-A structured, end-to-end marketing analytics notebook built in Python. This project gives a growth/marketing team a **repeatable framework** to evaluate acquisition campaign performance across five channels — Organic, Paid Search, Paid Social, Referral, and Email.
+A structured, end-to-end marketing analytics notebook built in Python. This project gives a growth/marketing team a **repeatable framework** to evaluate acquisition campaign performance across five channels, Organic, Paid Search, Paid Social, Referral, and Email.
 
 ---
 
